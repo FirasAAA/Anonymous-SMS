@@ -1,4 +1,4 @@
-📱 Anonymous-SMS
+#📱 Anonymous-SMS
 A lightweight Python tool to send anonymous SMS messages using the Textbelt API.
 
 ⚠️ For educational and ethical use only.
