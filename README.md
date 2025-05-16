@@ -21,35 +21,11 @@ Internet connection
 
 🚀 Getting Started
 1. Clone or download the script
-bash
-Copier
-Modifier
-git clone https://github.com/yourusername/Anonymous-SMS.git
-cd Anonymous-SMS
-Or just download Anon-sms.py and run it.
-
+<pre> ```bash git clone https://github.com/yourusername/Anonymous-SMS.git cd Anonymous-SMS # Or just download Anon-sms.py and run it ``` </pre>
 2. Install dependencies
-bash
-Copier
-Modifier
-pip install requests
+<pre> ```bash pip install requests ``` </pre>
 3. Run the script
-bash
-Copier
-Modifier
-python Anon-sms.py
-On first run, you’ll see:
-
-csharp
-Copier
-Modifier
-[1] Send SMS
-[2] Exit
-Choose option 1, and enter:
-
-The recipient's phone number (with country prefix, e.g., +1234567890)
-
-Your message
+<pre> ```bash python Anon-sms.py ``` </pre>
 
 The script will send the message via the free Textbelt endpoint.
 
@@ -58,15 +34,11 @@ This script uses the free Textbelt endpoint (https://textbelt.com/text) with a d
 
 The free key is limited to 1 message per day per IP address.
 
-For unlimited use, get a paid key from Textbelt.
+For unlimited use, get a paid key from Textbelt, or wait for me to publish a new free way to send unlimited sms.
 
 To use a custom API key, modify this line in the script:
 
-python
-Copier
-Modifier
-'key': 'textbelt'
-Change 'textbelt' to your paid key.
+<pre> ```python 'key': 'textbelt' # Change 'textbelt' to your paid key. ``` </pre>
 
 ⚠️ Disclaimer
 This tool is provided for educational and ethical testing purposes only.
