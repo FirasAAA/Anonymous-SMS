@@ -30,12 +30,12 @@ A lightweight Python tool to send anonymous SMS messages using the Textbelt API.
 ```bash
 git clone https://github.com/yourusername/Anonymous-SMS.git
 cd Anonymous-SMS
-# Or just download Anon-sms.py and run it
+# Or just download Anon-sms.py and run it ```
 
 2. Install dependencies
-<pre> pip install requests </pre>
+```bash pip install requests ```
 3. Run the script
-<pre> python Anon-sms.py </pre>
+```bash python Anon-sms.py </pre> ```
 
 The script will send the message via the free Textbelt endpoint.
 
