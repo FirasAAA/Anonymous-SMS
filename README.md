@@ -21,8 +21,9 @@ Internet connection
 
 🚀 Getting Started
 1. Clone or download the script
-<pre> git clone https://github.com/yourusername/Anonymous-SMS.git<pre> 
-<pre>cd Anonymous-SMS 
+```bash
+git clone https://github.com/yourusername/Anonymous-SMS.git
+cd Anonymous-SMS ```
   Or just download Anon-sms.py and run it 
 2. Install dependencies
 <pre> pip install requests </pre>
