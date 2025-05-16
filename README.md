@@ -1,30 +1,37 @@
-📱 Anonymous-SMS
+# 📱 Anonymous-SMS
+
 A lightweight Python tool to send anonymous SMS messages using the Textbelt API.
 
 ⚠️ For educational and ethical use only.
 
-✨ Features
-Send SMS messages anonymously.
+---
 
-Clean text-based interface.
+## ✨ Features
 
-Works on Windows, macOS, and Linux.
+- Send SMS messages anonymously.
+- Clean text-based interface.
+- Works on Windows, macOS, and Linux.
+- Fully standalone — no extra dependencies except `requests`.
 
-Fully standalone — no extra dependencies except requests.
+---
 
-🛠 Requirements
-Python 3.7+
+## 🛠 Requirements
 
-requests library (install with pip install requests)
+- Python 3.7+
+- `requests` library (install with `pip install requests`)
+- Internet connection
 
-Internet connection
+---
 
-🚀 Getting Started
+## 🚀 Getting Started
+
 1. Clone or download the script
+
 ```bash
 git clone https://github.com/yourusername/Anonymous-SMS.git
-cd Anonymous-SMS ```
-  Or just download Anon-sms.py and run it 
+cd Anonymous-SMS
+# Or just download Anon-sms.py and run it
+
 2. Install dependencies
 <pre> pip install requests </pre>
 3. Run the script
