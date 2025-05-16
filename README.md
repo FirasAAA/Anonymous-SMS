@@ -21,11 +21,13 @@ Internet connection
 
 🚀 Getting Started
 1. Clone or download the script
-<pre> ```bash git clone https://github.com/yourusername/Anonymous-SMS.git cd Anonymous-SMS # Or just download Anon-sms.py and run it ``` </pre>
+<pre> git clone https://github.com/yourusername/Anonymous-SMS.git<pre> 
+<pre>cd Anonymous-SMS 
+  Or just download Anon-sms.py and run it 
 2. Install dependencies
-<pre> ```bash pip install requests ``` </pre>
+<pre> pip install requests </pre>
 3. Run the script
-<pre> ```bash python Anon-sms.py ``` </pre>
+<pre> python Anon-sms.py </pre>
 
 The script will send the message via the free Textbelt endpoint.
 
