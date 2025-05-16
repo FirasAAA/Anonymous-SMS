@@ -35,7 +35,7 @@ cd Anonymous-SMS
 2. Install dependencies
 ```bash pip install -r requirements.txt ```
 3. Run the script
-```bash python Anon-sms.py </pre> ```
+``` python Anon-sms.py  ```
 
 The script will send the message via the free Textbelt endpoint.
 
