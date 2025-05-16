@@ -33,7 +33,7 @@ cd Anonymous-SMS
 # Or just download Anon-sms.py and run it  </pre>
 
 2. Install dependencies
-```bash pip install -r requirements.txt ```
+```pip install -r requirements.txt ```
 3. Run the script
 ``` python Anon-sms.py  ```
 
