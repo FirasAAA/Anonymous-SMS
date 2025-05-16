@@ -18,7 +18,7 @@ A lightweight Python tool to send anonymous SMS messages using the Textbelt API.
 ## 🛠 Requirements
 
 - Python 3.7+
-- `requests` library (install with `pip install requests`)
+- `requests` library 
 - Internet connection
 
 ---
